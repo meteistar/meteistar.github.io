@@ -6,15 +6,9 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01b7064eebc6ccb65e?viewMode=1).
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
-
-📚 I also love reading books
-
-
 ## 🏅 Achievements
 
 -   🏆 **Top Rated** at _Upwork_ (September 2021)
-
 
 ## 🛠️ Skills
 **Programming Languages:**  
