@@ -17,11 +17,35 @@
 
 
 ## 🛠️ Skills
+**Programming Languages:**  
+C/C++, QML, C#, JavaScript  
 
-- QT Framework
-- C++98, C11, C13, C17, C23
-- OpenCV
-- OpenGL
+**UI/Frameworks:**  
+Extensive experience with **Qt Widgets** and **QML UI design**  
+
+**Operating Systems:**  
+Embedded Linux, Windows, Mac, Baremetal  
+
+**Tools:**  
+Qt Creator, Qt Design Studio, Figma, Visual Studio, CLion, Visual Studio Code, XCode, MPLAB8, MPLABX  
+
+**Version Control / Project Management:**  
+Git, SVN, GitLab, JIRA  
+
+**Embedded Processors:**  
+Microchip PIC18xxxx, PIC32xxxx, ARM-based SoCs, IMX6, Jetson  
+
+**Libraries / Frameworks:**  
+STL, Qt, OpenCV, FFmpeg, OpenGL  
+
+**Build Systems:**  
+CMake, QMake  
+
+**Package Managers:**  
+Vcpkg, Conan, CPM  
+
+**Test Frameworks:**  
+QTest, Catch, GTest, CTest  
   
 ### Languages
 
