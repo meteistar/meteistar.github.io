@@ -1,16 +1,24 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
+[🚀 Portfolio Projects](#portfolio-projects) | [💼 Work Experience](#work-experience) | [🛠️ Skills](#skills) | [🔗 Links](#links)
+
+---
+
 ## 🚀 About Me
 
 🎓 I am Mete Istar, a **QT developer** (specializing in **C/C++, QML**) and a [**Freelancer**](https://www.upwork.com/freelancers/~01b7064eebc6ccb65e?viewMode=1) on _Upwork_.
 
 👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01b7064eebc6ccb65e?viewMode=1).
 
+---
+
 ## 🏅 Achievements
 
 -   🏆 **Top Rated** at _Upwork_ (September 2021)
 
-## 🛠️ Skills
+---
+
+## 🛠️ Skills <a name="skills"></a>
 **Programming Languages:**  
 C/C++, QML, C#, JavaScript  
 
@@ -40,18 +48,22 @@ Vcpkg, Conan, CPM
 
 **Test Frameworks:**  
 QTest, Catch, GTest, CTest  
-  
+
+---
+
 ### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
+---
 
 ### Education
 
-### Work Experience
+---
+
+### Work Experience <a name="work-experience"></a>
 #### **Senior C++/QML Developer** — *AerialOGI (Remote, Utah)*  
 *Sep 2024 – Present*  
 
@@ -127,10 +139,16 @@ QTest, Catch, GTest, CTest
 - 🐧 STM32, Atmel, MSP430, PIC32  
 - 🌐 RS232/485, I2C, SPI, TCP/UDP, CAN
 
+---
 
 ### Projects
 
-## 🔗 Links
+---
+
+## 🚀 Portfolio Projects <a name="portfolio-projects"></a>
+---
+
+## 🔗 Links <a name="links"></a>
 
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b7064eebc6ccb65e?viewMode=1)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/meteistar/)
