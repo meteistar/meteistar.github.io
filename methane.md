@@ -1,9 +1,9 @@
 # Methane Leak Detection UI
 
-[⬅ Back to Portfolio](../README.html)
+![screenshot](/assets/img/neutrinoViewer.png)
 
 ## Project Overview
 - C++, QML, Qt, FFmpeg
 - Real-time video + sensor data
 
-![screenshot](images/methane_ui.png)
+[⬅ Back to Portfolio](../README.md)
