@@ -6,4 +6,4 @@
 - C++, QML, Qt, FFmpeg
 - Real-time video + sensor data
 
-[⬅ Back to Portfolio](../README.md)
+[⬅ Back to Portfolio](README.md)
